@@ -1,0 +1,2 @@
+Siempre debe activarse el Entorno Virtual:
+~/ds_code $ . myvenv/bin/activate
